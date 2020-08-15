@@ -8,7 +8,7 @@ phyloplace.py categorize the phylogenetically placed query sequences into 3 type
  3. Placed on the truck edge between two existing clusters.  
 
 For more details, please check out our paper:  
-Parker E., Han A. X., Brouwer L., Wolthers K., Benschop K., Russell C. (2020) _Genotypic diversity and dynamic nomenclature of Parechovirus A_.  
+Parker E., Han A. X., Brouwer L., Wolthers K., Benschop K., Russell C. (2020) Genotypic diversity and dynamic nomenclature of Parechovirus A. bioRxiv 2020.08.14.251231; doi: https://doi.org/10.1101/2020.08.14.251231
 
 ## Installation  
 
